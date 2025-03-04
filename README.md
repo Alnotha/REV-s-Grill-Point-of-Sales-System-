@@ -1,4 +1,4 @@
-```markdown
+
 # REV's Grill Point-of-Sales System
 
 ## Overview
